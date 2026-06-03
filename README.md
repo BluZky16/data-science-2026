@@ -1,11 +1,14 @@
-# data-science-2026
+# Data Science 2026 — Portofolio Perkuliahan
 
-## Perkenalan Singkat
+| | |
+|---|---|
+| **Nama** | RICHARDUS EUGENE TIJA |
+| **NIM** | 240401010214 |
+| **Kelas** | IF403 |
+| **Program Studi** | Informatika |
 
-Halo, saya RICHARDUS EUGENE TIJA. Saya belajar Data Science untuk memahami analisis data, pemodelan statistik, dan penerapan machine learning agar dapat menyelesaikan masalah nyata dengan keputusan berbasis data.
+---
 
-## Tujuan Belajar Data Science
+## Tentang Repository Ini
 
-- Mengembangkan kemampuan analisis data dari data mentah menjadi insight yang berguna.
-- Mempelajari alat-alat seperti Python, Jupyter Notebook, dan teknik pemodelan.
-- Menjadi lebih siap menghadapi tantangan data di dunia akademik dan industri.
+Halo! Saya **Richardus Eugene Tija**, mahasiswa Informatika yang sedang menempuh mata kuliah Data Science. Saya belajar Data Science karena ingin memahami cara mengolah data mentah menjadi *insight* yang bermakna, membangun model prediktif, serta mengambil keputusan berbasis data — keterampilan yang semakin krusial di era 
